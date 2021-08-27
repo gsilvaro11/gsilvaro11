@@ -4,8 +4,8 @@
 - 🌱 Estudando: JavaScript, NodeJS, Python, Django, 
 <br>
 <div>  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gsilvaro11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilvaro11&layout=compact&langs_count=7&theme=dark">
+  <img height="170em" width='450em' src="https://github-readme-stats.vercel.app/api?username=gsilvaro11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
+  <img height="170em" width='450em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilvaro11&layout=compact&langs_count=7&theme=dark">
 </div>
  
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
  
 <div> 
   <a href="https://www.instagram.com/gsilvaro_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	 <a href = "mailto:guiuser1999@gmaial.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	 <a href="mailto:guiuser1999@gmaial.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nei-guilherme-silva-4815651b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
