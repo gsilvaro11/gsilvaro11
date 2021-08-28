@@ -3,7 +3,7 @@
 - 🔭 Procurando estágio...
 - 🌱 Estudando: JavaScript, NodeJS, Python, Django, 
 
- <div style="width: 130em">  
+ <div style="width: 100em">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsilvaro11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsilvaro11&layout=compact&langs_count=7&theme=dark"/>
 </div>
