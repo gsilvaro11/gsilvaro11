@@ -1,6 +1,6 @@
 ### Oiee tudo bem?, Guilherme aqui.
 
-- 🔭 Desenvolvedor Fullstack na empresa DBC Company.
+- 🔭 Desenvolvedor Full Stack na empresa DBC Company.
 
  <div style="width: 80em;">  
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gsilvaro11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
